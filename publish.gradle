@@ -10,7 +10,7 @@ configure([
 	project(":extensions:gdx-box2d-parent"),
 	project(":extensions:gdx-box2d-parent:gdx-box2d"),
 	project(":extensions:gdx-box2d-parent:gdx-box2d-gwt"),
-	project(":extensions:gdx-bullet"),
+	// project(":extensions:gdx-bullet"),
 	project(":extensions:gdx-freetype"),
 	project(":extensions:gdx-lwjgl3-angle"),
 	project(":extensions:gdx-lwjgl3-glfw-awt-macos"),

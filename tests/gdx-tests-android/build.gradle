@@ -102,7 +102,7 @@ task copyAndroidNatives() {
 		].each { arch ->
 			[
 				project(":gdx"),
-				project(":extensions:gdx-bullet"),
+				// project(":extensions:gdx-bullet"),
 				project(":extensions:gdx-box2d-parent:gdx-box2d"),
 				project(":extensions:gdx-freetype")
 			].each { p ->

@@ -132,9 +132,9 @@ configure(subprojects - project(":tests:gdx-tests-android") - project(":backends
 		withJavadocJar()
 		withSourcesJar()
 
-    // toolchain {
+		// toolchain {
 		// 	languageVersion.set(JavaLanguageVersion.of(17))
-    // }
+		// }
 	}
 }
 
